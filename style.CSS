@@ -92,4 +92,7 @@ footer {
   .projects {
     flex-direction: column;
   }
+.container img{
+  border-image: fill;
+  border-radius: 50%;
 }
